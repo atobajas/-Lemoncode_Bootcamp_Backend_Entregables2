@@ -40,7 +40,7 @@ las anido dentro de la colección de cursos. (aplico patrón extended ref).
 Dado que la información del autor se utilizará poco creo colección propia y enlazo desde fuera. (patrón subset)
 
 En colección temática creo campo ultimoscursos que será una matriz en la que se reflejarán los cinco últimos cursos.
-En este campo añado la información necesaria del curso para mostrar en página home. (patrón extended ref)
+En este campo añado la información necesaria del curso para mostrar en página home y mejorar el Working Set. (patrón extended ref)
 Se tendrá que gestionar desde programación el contenido de este campo.
 
 ## Requerimientos básicos.
