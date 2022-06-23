@@ -1,0 +1,14 @@
+{
+  "name": "laboratorio-javascript",
+  "version": "1.0.0",
+  "description": "Playground to show code snippets via JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --quiet --watch ./src --ext js --exec \"cls && node ./src/index.js\""
+  },
+  "license": "MIT",
+  "author": "Antonio Tobajas",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
