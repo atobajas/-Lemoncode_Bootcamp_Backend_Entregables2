@@ -1,0 +1,18 @@
+[
+  {
+    "_id": {
+      "$oid": "59b99db4cfa9a34dcd7885b6"
+    },
+    "nombre": "Braulio",
+    "urlfoto": "www.lemoncode.net/fotobraulio",
+    "descripcion": "Catedrático curtido en mil batallas. Llegó a luchar con los moros para ayudar a Don Pelayo"
+  },
+  {
+    "_id": {
+      "$oid": "59b99db4cfa9a34dcd7885b7"
+    },
+    "name": "Manolo",
+    "urlfoto": "www.lemoncode.net/fotomanolo",
+    "descripcion": "Programador entusiasta y hecho así mismo"
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "_id": {
+      "$oid": "59b99db4cfa9a34dcd7885c4"
+    },
+    "nombre": "Bootcamp Backend I",
+    "descripcion": "Bootcamp de seis meses tocando tanto documental como relacional ...",
+    "foto": "www.lemoncode.net/fotobootcampbackend",
+    "lecciones": [
+      {
+        "_id": {
+          "$oid": "59b99db4cfa9a34dcd7885bd"
+        },
+        "nombre_autor": "Braulio",
+        "Decripcion": "Primera lección del curso",
+        "video": "www.lemoncode.net/bootcampbackend/videos/01",
+        "articulo": "www.lemoncode.net/bootcampbackend/articulos/01"
+      },
+      {
+        "_id": {
+          "$oid": "59b99db4cfa9a34dcd7885ff"
+        },
+        "nombre_autor": "Braulio",
+        "Decripcion": "Segunda lección del curso",
+        "video": "www.lemoncode.net/bootcampbackend/videos/02",
+        "articulo": "www.lemoncode.net/bootcampbackend/articulos/02"
+      }
+    ],
+    "autores": [
+      {
+        "_id": {
+          "$oid": "77b99db4cfa9a34dcd7885bd"
+        },
+        "id_autor": "59b99db4cfa9a34dcd7885b6",
+        "nombre_autor": "Braulio"
+      }
+    ],
+    "idtematica": "33b99db4cfa9a34dcd7885b6",
+    "fechapublicacion": "2020-06-01"
+  },
+  {
+    "_id": {
+      "$oid": "65b99db4cfa9a34dcd7885c4"
+    },
+    "nombre": "Bootcamp Backend II",
+    "descripcion": "Bootcamp de seis meses tocando tanto documental como relacional ...",
+    "foto": "www.lemoncode.net/fotobootcampbackend",
+    "lecciones": [
+      {
+        "_id": {
+          "$oid": "59b99db4cfb9a34dcd7885bd"
+        },
+        "nombre_autor": "Braulio",
+        "Decripcion": "Primera lección del curso",
+        "video": "www.lemoncode.net/bootcampbackend/videos/01",
+        "articulo": "www.lemoncode.net/bootcampbackend/articulos/01"
+      },
+      {
+        "_id": {
+          "$oid": "59b99db4cfb9a34dcd7885ff"
+        },
+        "nombre_autor": "Braulio",
+        "Decripcion": "Segunda lección del curso",
+        "video": "www.lemoncode.net/bootcampbackend/videos/02",
+        "articulo": "www.lemoncode.net/bootcampbackend/articulos/02"
+      }
+    ],
+    "autores": [
+      {
+        "_id": {
+          "$oid": "77b99db4cfa9a34dcd7885bd"
+        },
+        "id_autor": "59b99db4cfa9a34dcd7885b6",
+        "nombre_autor": "Braulio"
+      }
+    ],
+    "idtematica": "33b99db4cfa9a34dcd7885b6",
+    "fechapublicacion": "2020-06-01"
+  },
+  {
+    "_id": {
+      "$oid": "33b99db4cfa9a34dcd7885c4"
+    },
+    "nombre": "Bootcamp Devops I",
+    "descripcion": "Bootcamp de seis meses tocando Docker, Kubernetes y CI/CD ...",
+    "foto": "www.lemoncode.net/fotobootcampdevops",
+    "lecciones": [
+      {
+        "_id": {
+          "$oid": "11b99db4cfa9a34dcd7885bd"
+        },
+        "nombre_autor": "Braulio",
+        "Decripcion": "Primera lección del curso",
+        "video": "www.lemoncode.net/bootcampdevops/videos/01",
+        "articulo": "www.lemoncode.net/bootcampdevops/articulos/01"
+      },
+      {
+        "_id": {
+          "$oid": "22b99db4cfa9a34dcd7885ff"
+        },
+        "nombre_autor": "Braulio",
+        "Decripcion": "Segunda lección del curso",
+        "video": "www.lemoncode.net/bootcampdevops/videos/02",
+        "articulo": "www.lemoncode.net/bootcampdevops/articulos/02"
+      }
+    ],
+    "autores": [
+      {
+        "_id": {
+          "$oid": "44b99db4cfa9a34dcd7885bd"
+        },
+        "id_autor": "59b99db4cfa9a34dcd7885b6",
+        "nombre_autor": "Braulio"
+      }
+    ],
+    "idtematica": "55b99db4cfa9a34dcd7885b6",
+    "fechapublicacion": "2021-06-01"
+  },
+  {
+    "_id": {
+      "$oid": "44b99db4cfa9a34dcd7885c4"
+    },
+    "nombre": "Bootcamp Devops II",
+    "descripcion": "Bootcamp de seis meses tocando Docker, Kubernetes y CI/CD  ...",
+    "foto": "www.lemoncode.net/fotobootcampdevops",
+    "lecciones": [
+      {
+        "_id": {
+          "$oid": "97b99db4cfb9a34dcd7885bd"
+        },
+        "nombre_autor": "Manolo",
+        "Decripcion": "Primera lección del curso",
+        "video": "www.lemoncode.net/bootcampdevops/videos/01",
+        "articulo": "www.lemoncode.net/bootcampdevops/articulos/01"
+      },
+      {
+        "_id": {
+          "$oid": "79b99db4cfb9a34dcd7885ff"
+        },
+        "nombre_autor": "Manolo",
+        "Decripcion": "Segunda lección del curso",
+        "video": "www.lemoncode.net/bootcampdevops/videos/02",
+        "articulo": "www.lemoncode.net/bootcampdevops/articulos/02"
+      }
+    ],
+    "autores": [
+      {
+        "_id": {
+          "$oid": "64b99db4cfa9a34dcd7885bd"
+        },
+        "id_autor": "59b99db4cfa9a34dcd7885b6",
+        "nombre_autor": "Braulio"
+      },
+      {
+        "_id": {
+          "$oid": "20b99db4cfa9a34dcd7885bd"
+        },
+        "id_autor": "59b99db4cfa9a34dcd7885b7",
+        "nombre_autor": "Manolo"
+      }
+    ],
+    "idtematica": "33b99db4cfa9a34dcd7885b6",
+    "fechapublicacion": "2021-06-01"
+  }
+]
